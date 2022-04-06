@@ -5,7 +5,7 @@
 |||
 |:-:|:-:|
 |一体化位置信息|com.android.location.fused
-||万能遥控|com.duokan.phone.remotecontroller
+|万能遥控|com.duokan.phone.remotecontroller
 |三方应用异常分析|com.miui.thirdappassistant
 |下载管理|com.android.providers.downloads.ui
 |下载管理程序|com.android.providers.downloads
@@ -16,7 +16,7 @@
 |全球上网|com.miui.virtualsim
 |关机闹钟|com.qualcomm.qti.poweroffalarm
 |内容中心|com.miui.newhome
-||卫星定位|com.xiaomi.bsp.gps.nps
+|卫星定位|com.xiaomi.bsp.gps.nps
 |双刘海屏|com.android.internal.display.cutout.emulation.double
 |垃圾清理|com.miui.cleanmaster
 |基本互动屏保|com.android.dreams.basic
@@ -31,7 +31,7 @@
 |密钥链|com.android.keychain
 |小爱同学|com.miui.voiceassist
 |小米SIM卡激活服务|com.xiaomi.simactivate.service
-||小米云服务|com.miui.cloudservice
+|小米云服务|com.miui.cloudservice
 |小米云盘|com.miui.newmidrive
 |小米互传|com.miui.mishare.connectivity
 |小米互联通信服务|com.xiaomi.mi_connect_service
@@ -106,7 +106,7 @@
 |生活黄页|com.miui.yellowpage
 |用户反馈|com.miui.bugreport
 |用户字典|com.android.providers.userdictionary
-||电子邮件|com.android.email
+|电子邮件|com.android.email
 |电话|com.android.incallui
 |电话和短信存储|com.android.providers.telephony
 |电话服务|com.android.phone
