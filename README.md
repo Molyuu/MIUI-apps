@@ -24,7 +24,8 @@
 |备份|com.miui.backup
 |外部存储设备|com.android.externalstorage
 |天星金融|com.xiaomi.jr
-|天气|com.miui.weather2媒体存储设备|com.android.providers.media.module
+|天气|com.miui.weather2
+|媒体存储设备|com.android.providers.media.module
 |存储已屏蔽的号码|com.android.providers.blockednumber
 |存储空间管理器|com.android.storagemanager
 |安全核心组件|com.miui.securitycore
