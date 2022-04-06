@@ -1,7 +1,7 @@
 # MIUI-apps
 这里包含miui的部分预装软件。提取自 MIUI V13.0.6.0.SKKCNXM
 # To Do
-- [] 用actions自动化提取（咕咕咕）
+- [ ] 用actions自动化提取（咕咕咕）
 # MIUI 13 预装软件列表
 
 |||
