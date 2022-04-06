@@ -47,7 +47,7 @@
 |小米有品|com.xiaomi.youpin
 |小米服务框架|com.xiaomi.xmsf
 |小米画报|com.mfashiongallery.emag
-||小米直播助手|com.mi.liveassistant
+|小米直播助手|com.mi.liveassistant
 |小米社区|com.xiaomi.vipaccount
 |小米视频|com.miui.video
 |小米设置|com.xiaomi.misettings
@@ -77,7 +77,7 @@
 |抖音短视频|com.ss.android.ugc.aweme
 |拼多多|com.xunmeng.pinduoduo
 |指南针|com.miui.compass
-||指纹测试|com.goodix.gftest
+|指纹测试|com.goodix.gftest
 |搜狗输入法小米版|com.sohu.inputmethod.sogou.xiaomi
 |搜索|com.android.quicksearchbox
 |支付宝|com.eg.android.AlipayGphone
@@ -92,7 +92,7 @@
 |智能出行|com.miui.smarttravel
 |智能助理|com.miui.personalassistant
 |智能服务|com.miui.systemAdSolution
-||服务与反馈|com.miui.miservice
+|服务与反馈|com.miui.miservice
 |权限控制器|com.android.permissioncontroller
 |权限管理服务|com.lbe.security.miui
 |查找手机|com.xiaomi.finddevice
